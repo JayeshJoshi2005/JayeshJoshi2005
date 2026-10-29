@@ -43,3 +43,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=JayeshJoshi2005&label=Profile%20Views&color=0e75b6&style=flat)
